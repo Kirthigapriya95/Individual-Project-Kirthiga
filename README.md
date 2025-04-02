@@ -22,7 +22,7 @@ This repository contains a single Python script (`Project1.py`) that performs tw
    
 2.  Navigate to the repository directory:
     ```bash
-    cd [Inidvidual-Project]
+    cd Video Game Sales Analysis
     ```
 
 ## Running the Script
